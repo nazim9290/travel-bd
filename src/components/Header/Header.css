@@ -2,3 +2,11 @@
   font-weight: 900;
   font-size: 500px;
 }
+.header-container {
+  text-align: center;
+  background-image: url(https://getaway.qodeinteractive.com/wp-content/uploads/2017/08/main-slider-1.jpg);
+  height: 300px;
+}
+.hero {
+  color: #f7f7f7;
+}

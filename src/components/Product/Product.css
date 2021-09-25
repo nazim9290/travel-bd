@@ -1,1 +1,11 @@
-
+.product-body {
+  box-shadow: 5px 5px 5px rgb(175, 172, 172);
+  border-radius: 20px;
+  padding: 10px;
+  border: none;
+  background-color: #f7f7f7;
+}
+.product-img {
+  height: 200px;
+  border-radius: 5px;
+}

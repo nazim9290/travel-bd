@@ -1,0 +1,9 @@
+.cart {
+  text-align: center;
+  margin-left: 5px;
+  box-shadow: 10px 5px 5px gray;
+  padding: 20px;
+  border: 1px solid lightgrey;
+  color: #545454;
+  border-radius: 5px;
+}
