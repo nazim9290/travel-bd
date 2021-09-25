@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Sajek velly",
+    "price": 2500,
+    "address": "khagrasori",
+    "phone": "1-770-736442",
+    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/9a/8b/e9/sajek.jpg?w=400&h=300&s=1",
+    "description": "Sajek valley is known for its natural environment and is surrounded by mountains, dense forest, and grassland hill tracks. Many small rivers flow through the mountains among which the Kachalong and the Machalong are notable. On the way to Sajek valley, one has to cross the Mayni range and the Mayni river. The road to Sajek has high peaks and falls.",
+    "stay": "2 night 1 day",
+    "rating": 3
+  },
+  {
+    "id": 2,
+    "name": "Bander ban ",
+    "price": 3000,
+    "address": "Banderban",
+    "phone": "1-770-736442",
+    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/3d/56/54/boga-lake.jpg?w=500&h=400&s=1",
+    "description": "Surrounded by the Muranja, Wayla, and Chimbook mountains that rise to nearly 1,000 meters above sea level is the stunning town of Bandaran",
+    "stay": "2 night 1 day",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Cox’s Bazar",
+    "price": 3000,
+    "address": "Cox-bazar",
+    "phone": "1-770-736442",
+    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/66/d8/30/cox-s-bazar-beach.jpg?w=500&h=-1&s=1",
+    "description": "This little town in the far south-east of Bangladesh is known for its stunning beach which stretches for an amazing 120 kilometers from north to south along the side of the balmy Indian Ocean.",
+    "stay": "2 night 1 day",
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "name": "The Sundarbans",
+    "price": 3000,
+    "address": "Bager hat",
+    "phone": "1-770-736442",
+    "img": "https://cdn.thecrazytourist.com/wp-content/uploads/2017/03/The-Sundarbans.jpg",
+    "description": "The Sundarbans are located at the point where the mighty waterways of the Brahmaputra and the scared Ganges crash into each other at the edge of the Bay of Bengal.",
+    "stay": "2 night 1 day",
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "name": "Srimangal",
+    "price": 3000,
+    "address": "Shylet",
+    "phone": "1-770-736442",
+    "img": "https://cdn.thecrazytourist.com/wp-content/uploads/2017/03/Srimangal.jpg",
+    "description": "Srimangal is the tea-growing capital of Bangladesh and the area is a riot of different hues of The area is famous for its rains which help the tea to grow and you will find a sea of different plantations here as you explore the highlands and the hamlets that make up Srimangal.",
+    "rating": 4
+  },
+  {
+    "id": 6,
+    "name": " Saint Martin",
+    "price": 3000,
+    "address": "saint martin",
+    "phone": "1-770-736442",
+    "img": "https://cdn.thecrazytourist.com/wp-content/uploads/2017/03/Saint-Martin.jpg",
+    "description": "The little enclave of Saint Martin is like nowhere else in Bangladesh as this is the only coral island in the country.The region is covered in shifting sands and lapping seas, all nestled close to coconut groves. In many ways it looks more like the Caribbean than South Asia, and you will find delicious seafood here including fiery curries.",
+    "rating": 4
+  }
+]
