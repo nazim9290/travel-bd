@@ -7,6 +7,6 @@ This project was bootstrapped with React [Travel bd](https://travel-bd-react1.ne
 In the project directory, you can run:
 
 ### `whay use this`
--you make your travel budget.
--Find most beatiful place in bangladesh.
--get avilabe hotel and eating place.
+- you make your travel budget.
+- Find most beatiful place in bangladesh.
+- get avilabe hotel and eating place.
