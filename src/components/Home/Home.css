@@ -2,12 +2,13 @@
   display: grid;
   grid-template-columns: 3fr 1fr;
   background-color: #fcfcfc;
+  margin: 10px 5px 20px 50px;
 }
 .product-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 10px;
-  margin: 10px 5px 20px 50px;
+  grid-gap: 15px;
+  margin-right: 10px;
 }
 .cart-container {
   margin-top: 20px;

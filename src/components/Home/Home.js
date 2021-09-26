@@ -5,6 +5,7 @@ import "./Home.css";
 const Home = () => {
  const [products,setProducts]=useState([]);
  const [cart,setCart]=useState([])
+ const [pdname,setPdname]=useState([])
 
  useEffect(()=>{
      fetch("./traveldata.JSON")
@@ -13,7 +14,9 @@ const Home = () => {
  },[])
         const handleAddtToCart=(product)=>{
             const newCart=[...cart,product]
-            setCart(newCart)
+            const newpdName=[...pdname,product]
+            setCart(newCart);
+            setPdname(newpdName);
         }
 
     return (
@@ -28,7 +31,7 @@ const Home = () => {
             }
             </div>
          <div className="cart-container">
-            <Cart cart={cart}></Cart>
+            <Cart cart={cart} pdname={pdname}></Cart>
         </div>            
 
         </div>
