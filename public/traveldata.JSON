@@ -62,5 +62,35 @@
     "img": "https://cdn.thecrazytourist.com/wp-content/uploads/2017/03/Saint-Martin.jpg",
     "description": "The little enclave of Saint Martin is like nowhere else in Bangladesh as this is the only coral island in the country.The region is covered in shifting sands and lapping seas, all nestled close to coconut groves. In many ways it looks more like the Caribbean than South Asia, and you will find delicious seafood here including fiery curries.",
     "rating": 4
+  },
+  {
+    "id": 7,
+    "name": " Old Dhaka",
+    "price": 3000,
+    "address": "saint martin",
+    "phone": "1-770-736442",
+    "img": "https://nomadparadise.com/wp-content/uploads/2021/04/bangladesh-places-01-1024x683.jpg",
+    "description": "Oh, Old Dhaka! Sitting on the bank of the Buriganga River, Old Dhaka’s rich culture and heritage are reflected in both its architecture and the lifestyle of the city’s population. Dhaka is the capital of Bangladesh, and the southernmost region of the city is called Old Dhaka.",
+    "rating": 4
+  },
+  {
+    "id": 8,
+    "name": "Sonargaon",
+    "price": 3000,
+    "address": " Sonargaon",
+    "phone": "1-770-736442",
+    "img": "https://nomadparadise.com/wp-content/uploads/2021/04/bangladesh-places-02-1024x683.jpg",
+    "description": "Panam Nagar is perhaps the most visited place in Sonargaon. Founded by the British as a cotton fabric trading center, Panar Nagar initially was a small town of around fifty-two houses, inhabited by Hindus. All the houses are built upon European architectural principles, and the city remains one of the most visited tourist places in Sonargaon.",
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "name": "Kuakata",
+    "price": 3000,
+    "address": "Kuakata",
+    "phone": "1-770-736442",
+    "img": "https://nomadparadise.com/wp-content/uploads/2021/04/bangladesh-places-12-1024x683.jpg",
+    "description": "Kuakata is a pilgrimage for Buddhists and Hindus; hence, the area is home to many temples of all shapes and sizes. You can visit them at Misripara, Amkholapara, and Keranipara.",
+    "rating": 4
   }
 ]
